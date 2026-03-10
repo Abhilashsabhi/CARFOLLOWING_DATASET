@@ -32,6 +32,7 @@ Data were collected using the following sensors:
 
 All sensors were time-synchronized and recorded using ROS2 bag files.
 
+```
 dataset/
 │
 ├── raw_data/
@@ -44,6 +45,7 @@ dataset/
 │   │   ├── scene_002.csv
 │   │   └── ...
 │
+```
 ## Dataset Availability
 
 A sample subset of the dataset is included in this repository for demonstration and reproducibility purposes.
