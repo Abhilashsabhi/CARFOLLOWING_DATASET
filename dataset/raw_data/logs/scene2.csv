@@ -1,0 +1,2 @@
+Timestamp,Image_Name,Ego_Lat,Ego_Lon,Ego_Speed,Lead_Lat,Lead_Lon,Lead_Speed,Fused_Distance,Vision_Distance,Lidar_Distance,Relative_Speed,Measurement_Type,Class_Label,BBOX_x1,BBOX_y1,BBOX_x2,BBOX_y2
+1768960778.662,0000.jpg,10.46661491,77.94727832,17.97,10.46674254,77.94726893,17.97,14.25,12.44,14.25,0.00,LiDAR,truck,620,240,794,455

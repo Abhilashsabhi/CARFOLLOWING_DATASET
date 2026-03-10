@@ -1,0 +1,1 @@
+Timestamp,Image_Name,Ego_Lat,Ego_Lon,Ego_Speed,Lead_Lat,Lead_Lon,Lead_Speed,Fused_Distance,Vision_Distance,Lidar_Distance,Relative_Speed,Measurement_Type,Class_Label,BBOX_x1,BBOX_y1,BBOX_x2,BBOX_y2
